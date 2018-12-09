@@ -1,1 +1,3 @@
 # swooleIm
+# Install
+composer install
