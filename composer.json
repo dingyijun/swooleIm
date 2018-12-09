@@ -1,0 +1,15 @@
+{
+    "name": "frinter/swoole-im",
+    "type": "project",
+    "require": {
+        "matyhtf/swoole_framework": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dingyijun",
+            "email": "84749353@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
