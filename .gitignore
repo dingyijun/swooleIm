@@ -1,3 +1,4 @@
+/vendor
+/.idea
+/nbproject
 *.DS_Store
-
-/vendor/

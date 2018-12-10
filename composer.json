@@ -1,15 +1,22 @@
 {
-    "name": "frinter/swoole-im",
+    "name": "moell/webim",
     "type": "project",
-    "require": {
-        "matyhtf/swoole_framework": "^2.0"
-    },
     "license": "MIT",
     "authors": [
         {
-            "name": "dingyijun",
-            "email": "84749353@qq.com"
+            "name": "Moell",
+            "email": "moell91@foxmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "WebIM\\": "src/"
+        }
+    },
+    "require-dev": {
+        "eaglewu/swoole-ide-helper": "dev-master"
+    }
 }
