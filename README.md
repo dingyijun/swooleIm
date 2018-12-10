@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## moell/webim
 PHP + Swoole 开发的简单聊天室demo, 主要是 websockt 的应用, 如果对你学习Swoole有帮助,欢迎 start 。
 
@@ -33,3 +34,8 @@ php -S localhost:8000
 
 ## License
 MIT
+=======
+# swooleIm
+# Install
+composer install
+>>>>>>> e771c42ca52947fc06483127d64b7a38a7beae47
